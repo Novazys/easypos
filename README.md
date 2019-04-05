@@ -1,5 +1,5 @@
 # easypos
-Software para factura electrónica en Costa 
+Software para factura electrónica en Costa Rica
 
 El software funciona perfectamente bien, pero aún no tiene la parte de FE para Costa Rica.
 
